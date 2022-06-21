@@ -7,11 +7,8 @@ var TodoSchema = new mongoose.Schema({
 });
 
 module.exports = mongoose.model('Todo', TodoSchema);
-
- // Changes
- // New Changes Checking           
- 
  
 /**
  * Module dependencies.
+ * Good to See back
  */
